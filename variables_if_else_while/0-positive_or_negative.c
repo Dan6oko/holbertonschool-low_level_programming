@@ -4,7 +4,7 @@
 /*
 * more headers goes there
 * main - main fonction to generate a random number
-* betty style doc for function main goes there 
+* betty style doc for function main goes there
 */
 int main(void)
 {

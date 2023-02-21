@@ -1,10 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
-* more headers goes there
-* main - main fonction to generate a random number
-* betty style doc for function main goes there
+/**
+* main - Entry point for the program
+*
+* Description: This function prompts the user to enter an integer,
+*              then checks whether the integer is positive or negative.
+*              It prints a message to the console indicating the result.
+*
+* Return: 0 if successful, non-zero if there was an error
 */
 int main(void)
 {
